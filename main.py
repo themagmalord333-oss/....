@@ -11,7 +11,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # --- CONFIGURATION ---
 TOKEN = "8169575696:AAHpmyEyPM12dz0v_jCd7T38PhKKA002F0Y"
-SERVER_URL = "https://2i4d2cx9w9.onrender.com"
+SERVER_URL = "https://proxy-93ml.onrender.com"
 
 # Force Join Channels (ID or Username)
 # Note: Public channels ke liye username aur private ke liye ID use hoti hai.
