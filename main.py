@@ -15,7 +15,7 @@ SERVER_URL = "https://proxy-93ml.onrender.com"
 
 # Force Join Channels (ID or Username)
 # Note: Public channels ke liye username aur private ke liye ID use hoti hai.
-CHANNELS = ["@proxydominates", "@midnight_xaura", -1002251392309] # Last one is ID for the private link provided
+CHANNELS = ["@proxydominates", "@midnight_xaura", -1003667411246] # Last one is ID for the private link provided
 
 app = Flask(__name__)
 
