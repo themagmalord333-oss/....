@@ -10,7 +10,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # --- CONFIGURATION ---
-TOKEN = "8169575696:AAHpmyEyPM12dz0v_jCd7T38PhKKA002F0Y"
+TOKEN = "7888111866:AAH9wJOLVbdvTh6RwpyQLlS3VoJrjJWhzk4"
 SERVER_URL = "https://proxy-93ml.onrender.com"
 
 # Force Join Channels (ID or Username)
